@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on [3D-printer](https://github.com/TThomas001/Printer)
 
-- 🌱 I’m currently learning **Optimization**
+- 🌱 I’m currently learning [Optimization](https://colab.research.google.com/drive/1m4Bvd-edxy4HjFKmUUb1Pk8-v9UofgjV)
 
-- 👯 I’m looking to collaborate on [Weather-Data](https://github.tamu.edu/Overbye-Research-Group/Weather-Data)
+- 👯 I’m looking to collaborate on Sustainable Smart Home [https://github.tamu.edu/thomas-chen/Sustainable_Smart_Home)
 
 - 📫 How to reach me **thomas-chen@tamu.edu**
 
