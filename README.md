@@ -7,17 +7,17 @@
 
 - 🌱 I’m currently learning [Optimization](https://colab.research.google.com/drive/1m4Bvd-edxy4HjFKmUUb1Pk8-v9UofgjV)
 
-- 👯 I’m looking to collaborate on Sustainable Smart Home [https://github.tamu.edu/thomas-chen/Sustainable_Smart_Home)
+- 👯 I’m looking to collaborate on [Sustainable Smart Home] (https://github.tamu.edu/thomas-chen/Sustainable_Smart_Home)
 
 - 📫 How to reach me **thomas-chen@tamu.edu**
 
-- 📄 Know about my experiences [https://thomas-chen.w3spaces.com/](https://thomas-chen.w3spaces.com/)
+- 📄 Know about my experiences [personal website](https://thomas-chen.w3spaces.com/)
 
 - ⚡ Fun fact **I think we might live in virtual reality**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/thomas chen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thomas chen" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/thomas-jt-chen/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thomas chen" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
