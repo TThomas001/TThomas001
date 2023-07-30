@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [personal website](https://thomas-chen.w3spaces.com/)
 
-- ⚡ Fun fact **I think we might live in virtual reality**
+- ⚡ Fun fact **I believe we might live in virtual reality**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
